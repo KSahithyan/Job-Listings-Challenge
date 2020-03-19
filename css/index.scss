@@ -23,12 +23,12 @@ body {
     padding: 0;
     margin: 0;
     font-size: 15px;
-    overflow-x: hidden;
     background: hsl(180, 52%, 96%);
 }
 
 .header-image {
     background: var(--primary);
+    width: 100%;
 }
 
 #filters-bar {

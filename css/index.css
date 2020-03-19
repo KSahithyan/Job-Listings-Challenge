@@ -11,12 +11,12 @@ body {
   padding: 0;
   margin: 0;
   font-size: 15px;
-  overflow-x: hidden;
   background: #effafa;
 }
 
 .header-image {
   background: var(--primary);
+  width: 100%;
 }
 
 #filters-bar {
